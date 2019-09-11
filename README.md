@@ -1,5 +1,5 @@
 # hiit-exercise-timer
-This is a 10-minute workout script that keeps the time for a 45-second exercise routine paired with a 15-second rest period. You can listen to your favourite workout music while running this bash script. (For me, it's podcasts ^_^)
+This is a 10-/15-minute workout script that keeps the time for a 45-second exercise routine paired with a 15-second rest period (by default). You can listen to your favourite workout music while running this bash script. (For me, it's podcasts ^_^)
 
 When you have downloaded this script on Mac OS X > Terminal, remember to run this command ```chmod +x exercise.sh``` before using it (```./exercise.sh```).
 
